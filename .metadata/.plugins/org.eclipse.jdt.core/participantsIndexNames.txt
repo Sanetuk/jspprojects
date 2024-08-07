@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700179850.index
+\myweb\src\main\java
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1230688971.index
+\bookmarket\src\main\java

@@ -11,6 +11,9 @@
 		int random = (int)(Math.random() * 100);
 	%>
 	랜덤한 숫자 : <%= random %>
+	<%
+		Date
+	%>
 	
 
 </body>

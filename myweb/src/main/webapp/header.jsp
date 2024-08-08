@@ -8,5 +8,8 @@
 </head>
 <body>
 	<p>this is header.jsp</p>
+	<%
+		int count = 100;
+	%>
 </body>
 </html>

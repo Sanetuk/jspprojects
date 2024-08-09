@@ -1,11 +1,19 @@
 INDEX VERSION 1.134
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\261523404.index
+\myweb\src\main\java
 C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3594289256.index
+\actiontags\src\main\java
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1230688971.index
+\bookmarket\src\main\java
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1750237976.index
+\ex-04\src\main\java
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1344329393.index
+\ex-05\src\main\java
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3615890930.index
+\ex-04\src\main\java
+C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3395291386.index
 \actiontags\src\main\java
 C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1890757370.index
 \ex-02\src\main\java
-C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3395291386.index
-\actiontags\src\main\java
 C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700179850.index
 \myweb\src\main\java
-C:\Users\LX\jsp\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1230688971.index
-\bookmarket\src\main\java

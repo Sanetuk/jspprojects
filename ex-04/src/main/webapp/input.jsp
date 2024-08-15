@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 	<style>
-	
 		th{
 			border: 1px solid black;
 		}
@@ -14,13 +13,15 @@
 			border: 1px solid black;
 		}
 		td{
-			text-centered
+			text-centered;
+			border: 1px solid black;
 		}
 	</style>
 </head>
 <body>
 	<h1>성적 입력</h1>
-	<form id="grades" action="inputaction.jsp">
+	<!-- form을 table 안에 분배. form을 submit하면, 브라우저에서 입력한 데이터와 함게 inputaction.jsp 요청을 서버에 전달. -->
+	<form id="grades" action="inputaction.jsp" method="post">
 		<table>
 			<tr>
 				<th colspan="2">사번</th>
@@ -41,7 +42,7 @@
 			</tr>
 			<tr>
 				<td>
-					<input type="submit" style="margin-left: 40px">
+					<input type="submit" style="margin-left: 40px" value="저장">
 				</td>
 			</tr>
 		</table>
@@ -52,6 +53,7 @@
 			if(!id.value){
 				alert('사번이 입력되지 않았습니다.');
 				e.preventDefault();
+				document.getElementById("id").focus();
 			}
 		}	
 	</script>

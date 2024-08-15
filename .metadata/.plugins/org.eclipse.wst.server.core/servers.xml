@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="14">
-    <list key="modules" value0="actiontags::org.eclipse.jst.jee.server:actiontags::jst.web::4.0" value1="bookmarket::org.eclipse.jst.jee.server:bookmarket::jst.web::4.0" value2="ex-01::org.eclipse.jst.jee.server:ex-01::jst.web::4.0" value3="myweb::org.eclipse.jst.jee.server:myweb::jst.web::4.0" value4="ex-02::org.eclipse.jst.jee.server:ex-02::jst.web::4.0" value5="ex-04::org.eclipse.jst.jee.server:ex-04::jst.web::4.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="33">
+    <list key="modules" value0="myservlet::org.eclipse.jst.jee.server:myservlet::jst.web::4.0" value1="ex-06::org.eclipse.jst.jee.server:ex-06::jst.web::4.0" value2="myweb::org.eclipse.jst.jee.server:myweb::jst.web::4.0"/>
   </server>
 </servers>

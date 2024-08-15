@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>emp list</h3>
+<h3>Emp list</h3>
 		<%
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hr", "root", "rootroot");

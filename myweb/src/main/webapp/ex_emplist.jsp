@@ -43,7 +43,33 @@
 			</select>
 		</form>
 	
+	<p>
+		선택한 부서번호 :
+		<%=request.getParameter("selectDeptId")%>번	
+	</p>
 	
+	<table>
+		<%
+		String deptIdStr = request.getParameter("selectDeptId");
+		if (deptIdStr != null && deptIdStr.length() > 0) {
+			int deptId = Integer.parseInt(deptIdStr);
+			List<Emp> empList = dao.getEmpListByDeptId(deptId);
+			
+			for (Emp emp : empList) {	
+		%>
+		<tr>
+			<td>사원번호 :</td>
+			<td><%=emp.employeeId%></td>
+			<td>이름 :</td>
+			<td><%=emp.lastName%></td>
+			<td>급여 :</td>
+			<td><%=emp.salary%></td>
+		</tr>
+		
+		<%
+		}
+		}%>
+	</table>
 	
 	
 	
